@@ -36,3 +36,12 @@ Page Links
   - page linking
   - templates
   - tailwindcss
+
+PHP Partials
+  - extract partial
+  - folder structure
+
+Superglobals and Current Page Styling
+  - superglobals
+  - ternary operator
+  - var_dump

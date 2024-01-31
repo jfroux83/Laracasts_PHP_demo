@@ -1,0 +1,38 @@
+Variables
+  - concatenation
+  - variables
+
+Conditional and Booleans
+  - conditionals
+  - booleans
+  - short echo tags
+
+Arrays
+  - arrays
+  - foreach
+  - alternative syntax
+
+Associative Arrays
+  - array access
+  - key-value pairs
+  - data
+
+Functions and Filters
+  - functions
+  - array filtering
+  - checking with equality
+
+Lambda Functions
+  - lambdas
+  - extract variable
+  - array_filter
+
+Separate Logic From the Template
+  - code organization
+  - logic separation
+  - require and include
+
+Page Links
+  - page linking
+  - templates
+  - tailwindcss

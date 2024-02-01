@@ -45,3 +45,23 @@ Superglobals and Current Page Styling
   - superglobals
   - ternary operator
   - var_dump
+
+Make a PHP Router
+  - routers
+  - status codes
+  - code organization
+
+Create a MySQL Database
+  - Databases
+  - Tables
+  - Columns
+
+PDO First Steps
+  - select queries
+  - DSNs
+  - PDO
+
+Extract a PHP Database Class
+  - classes
+  - constructor functions
+  - database connections

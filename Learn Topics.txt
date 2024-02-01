@@ -65,3 +65,12 @@ Extract a PHP Database Class
   - classes
   - constructor functions
   - database connections
+
+Environments and Configuration Flexibility
+  - environments
+  - push configurable data upward
+
+SQL Injection Vulnerabilities
+  - sql injection
+  - prepared statements
+  - parameter binding

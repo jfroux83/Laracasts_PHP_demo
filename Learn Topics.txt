@@ -74,3 +74,10 @@ SQL Injection Vulnerabilities
   - sql injection
   - prepared statements
   - parameter binding
+
+Database Tables and Indexes
+  - table relationships
+  - indexes
+
+Render the Notes and Note Page
+  - fetch notes by user

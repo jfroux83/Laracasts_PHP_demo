@@ -81,3 +81,12 @@ Database Tables and Indexes
 
 Render the Notes and Note Page
   - fetch notes by user
+
+Introduction to Authorization
+  - authorization
+  - magic numbers
+  - status codes
+
+Programming is Rewriting
+  - refactoring
+  - API ownership

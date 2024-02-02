@@ -36,3 +36,57 @@ Page Links
   - page linking
   - templates
   - tailwindcss
+
+PHP Partials
+  - extract partial
+  - folder structure
+
+Superglobals and Current Page Styling
+  - superglobals
+  - ternary operator
+  - var_dump
+
+Make a PHP Router
+  - routers
+  - status codes
+  - code organization
+
+Create a MySQL Database
+  - Databases
+  - Tables
+  - Columns
+
+PDO First Steps
+  - select queries
+  - DSNs
+  - PDO
+
+Extract a PHP Database Class
+  - classes
+  - constructor functions
+  - database connections
+
+Environments and Configuration Flexibility
+  - environments
+  - push configurable data upward
+
+SQL Injection Vulnerabilities
+  - sql injection
+  - prepared statements
+  - parameter binding
+
+Database Tables and Indexes
+  - table relationships
+  - indexes
+
+Render the Notes and Note Page
+  - fetch notes by user
+
+Introduction to Authorization
+  - authorization
+  - magic numbers
+  - status codes
+
+Programming is Rewriting
+  - refactoring
+  - API ownership

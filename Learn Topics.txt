@@ -90,3 +90,12 @@ Introduction to Authorization
 Programming is Rewriting
   - refactoring
   - API ownership
+
+Intro to Forms and Request Methods
+
+Always Escape Untrusted Input
+
+Intro to Form Validation
+
+Extract a Simple Validator Class
+  

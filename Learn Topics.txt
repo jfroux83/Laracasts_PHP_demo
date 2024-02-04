@@ -98,4 +98,9 @@ Always Escape Untrusted Input
 Intro to Form Validation
 
 Extract a Simple Validator Class
-  
+
+Resourceful Naming Conventions
+
+PHP Autoloading and Extraction
+
+Namespacing: What, Why, How?

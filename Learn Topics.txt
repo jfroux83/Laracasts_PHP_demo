@@ -112,3 +112,5 @@ Build a Better Router
 One Request, One Controller
 
 Make Your First Service Container
+
+Updating With PATCH Requests

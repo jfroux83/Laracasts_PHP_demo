@@ -114,3 +114,7 @@ One Request, One Controller
 Make Your First Service Container
 
 Updating With PATCH Requests
+
+PHP Sessions 101
+
+Register a New User

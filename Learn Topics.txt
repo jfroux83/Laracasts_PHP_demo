@@ -118,3 +118,5 @@ Updating With PATCH Requests
 PHP Sessions 101
 
 Register a New User
+
+Introduction to Middleware

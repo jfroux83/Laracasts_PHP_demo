@@ -1,9 +1,10 @@
 <?php
 
-$config = require 'config.php';
-$db = new Database($config['database'], 'root', 'karools');
+use Core\App;
+use Core\Database;
 
-$heading = 'Note';
+$db = App::resolve(Database::class);
+
 $currentUserId = 1;
 
 $note = $db->query(
@@ -13,4 +14,7 @@ $note = $db->query(
 
 authorize($note['user_id'] == $currentUserId);
 
-require 'views/note.view.php';
+view('notes/show.view.php', [
+  'heading' => 'Note',
+  'note' => $note
+]);

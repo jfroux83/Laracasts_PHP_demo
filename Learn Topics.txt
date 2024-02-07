@@ -90,3 +90,35 @@ Introduction to Authorization
 Programming is Rewriting
   - refactoring
   - API ownership
+
+Intro to Forms and Request Methods
+
+Always Escape Untrusted Input
+
+Intro to Form Validation
+
+Extract a Simple Validator Class
+
+Resourceful Naming Conventions
+
+PHP Autoloading and Extraction
+
+Namespacing: What, Why, How?
+
+Handle Multiple Request Methods From a Controller Action
+
+Build a Better Router
+
+One Request, One Controller
+
+Make Your First Service Container
+
+Updating With PATCH Requests
+
+PHP Sessions 101
+
+Register a New User
+
+Introduction to Middleware
+
+Manage Passwords Like This For The Remainder of Your Career

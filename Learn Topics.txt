@@ -132,3 +132,7 @@ The RPG Pattern (and Session Flashing)
 Flash Old Form data to the Session
 
 Automatically Redirect Back Upon Failed Validation
+
+Composer and Free Autoloading
+
+Install Two Composer Packages: Collections and PestPHP

@@ -34,7 +34,7 @@
                 <span class="absolute -inset-1.5"></span>
                 <span class="sr-only">Open user menu</span>
               </button>
-              <?php if ($_SESSION['user']) : ?>
+              <?php if ($_SESSION['user'] ?? '') : ?>
                 <!-- <p class="text-white"><?= $_SESSION['user']['email'] ?></p> -->
                 <form method="POST" action="/session">
                   <input type="hidden" name="_method" value="DELETE" />

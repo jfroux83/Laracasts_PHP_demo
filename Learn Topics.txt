@@ -122,3 +122,5 @@ Register a New User
 Introduction to Middleware
 
 Manage Passwords Like This For The Remainder of Your Career
+
+Extract a Form Validation Object

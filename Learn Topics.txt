@@ -126,3 +126,5 @@ Manage Passwords Like This For The Remainder of Your Career
 Extract a Form Validation Object
 
 Extract an Authenticator Class
+
+The RPG Pattern (and Session Flashing)

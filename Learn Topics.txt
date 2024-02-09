@@ -136,3 +136,7 @@ Automatically Redirect Back Upon Failed Validation
 Composer and Free Autoloading
 
 Install Two Composer Packages: Collections and PestPHP
+
+Testing Approaches, Terms, and Considerations
+
+The Next Step in Your PHP Journey

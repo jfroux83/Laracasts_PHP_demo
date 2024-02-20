@@ -122,3 +122,21 @@ Register a New User
 Introduction to Middleware
 
 Manage Passwords Like This For The Remainder of Your Career
+
+Extract a Form Validation Object
+
+Extract an Authenticator Class
+
+The RPG Pattern (and Session Flashing)
+
+Flash Old Form data to the Session
+
+Automatically Redirect Back Upon Failed Validation
+
+Composer and Free Autoloading
+
+Install Two Composer Packages: Collections and PestPHP
+
+Testing Approaches, Terms, and Considerations
+
+The Next Step in Your PHP Journey
